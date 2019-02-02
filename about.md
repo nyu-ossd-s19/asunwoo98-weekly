@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 Some information about you!
+### Interests
+#### Sports
+Ultimate (frisbee)'
 
 ### More Information
 
