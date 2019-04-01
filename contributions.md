@@ -22,4 +22,4 @@ Replace the first row with your contribution.
 |---|:---|:---|:---| 
 |  2   | https://github.com/nyu-ossd-s19/memeify-team-1/issues/1    | web-extension    |   Added installation instructions    |
 |  3   |  https://github.com/nyu-ossd-s19/notepad-team-3/issues/8   |  issue report   |   Suggested more details in the README file   |
-|  4  |     |     |      |
+|  3  |   https://github.com/nyu-ossd-s19/notepad-team-3/pull/7  |  pull request   |   Implemented suggestions I made in the issue above   |
