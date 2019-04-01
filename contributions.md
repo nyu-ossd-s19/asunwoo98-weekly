@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | https://github.com/nyu-ossd-s19/memeify-team-1/issues/1    | web-extension    |   Added installation instructions    |
-|     |     |     |      |
-|     |     |     |      |
+|  3   |  https://github.com/nyu-ossd-s19/notepad-team-3/issues/8   |  issue report   |   Suggested more details in the README file   |
+|  4  |     |     |      |
