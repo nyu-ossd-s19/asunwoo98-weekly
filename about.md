@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+My name is Antony Sunwoo and I am a senior at CAS. Currently majoring in joint math and computer science and graduating this spring.
 
 ### Interests
 #### Sports
