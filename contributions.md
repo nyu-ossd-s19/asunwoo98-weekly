@@ -26,3 +26,4 @@ Replace the first row with your contribution.
 |  3  |   https://github.com/nyu-ossd-s19/notepad-team-3/pull/7  |  pull request   |   Implemented suggestions I made in the issue above|
 | 4 | https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Christos-Bacharakis | comment course website| added question for Christos Bacharakis |
 | 6 | https://github.com/nyu-ossd-s19/wiki/wiki/Questions-for-Patrick-Masson | comment course website| added question for Patrick Masson|
+| 8 | | | |
